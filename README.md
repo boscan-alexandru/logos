@@ -1,1 +1,1 @@
-# logos
+# Just some company logos
